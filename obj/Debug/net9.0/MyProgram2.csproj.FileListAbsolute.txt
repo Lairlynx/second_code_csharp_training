@@ -1,0 +1,14 @@
+c:\DEV_APPS\dotNET basics training\MyProgram2\bin\Debug\net9.0\MyProgram2.exe
+c:\DEV_APPS\dotNET basics training\MyProgram2\bin\Debug\net9.0\MyProgram2.deps.json
+c:\DEV_APPS\dotNET basics training\MyProgram2\bin\Debug\net9.0\MyProgram2.runtimeconfig.json
+c:\DEV_APPS\dotNET basics training\MyProgram2\bin\Debug\net9.0\MyProgram2.dll
+c:\DEV_APPS\dotNET basics training\MyProgram2\bin\Debug\net9.0\MyProgram2.pdb
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.GeneratedMSBuildEditorConfig.editorconfig
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.AssemblyInfoInputs.cache
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.AssemblyInfo.cs
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.csproj.CoreCompileInputs.cache
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.dll
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\refint\MyProgram2.dll
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.pdb
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\MyProgram2.genruntimeconfig.cache
+c:\DEV_APPS\dotNET basics training\MyProgram2\obj\Debug\net9.0\ref\MyProgram2.dll
